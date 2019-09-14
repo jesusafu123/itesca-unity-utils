@@ -3,6 +3,7 @@
     "version": "1.0.1",
     "displayName": "ITESCA UTILS",
     "description": "Esta es una tarea sobre una paquetería custom de la clase de videojuegos de ITESCA",
+    "type": "unity library",
     "unity": "2019.2",
     "license": "MIT",
     "keywords": [

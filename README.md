@@ -3,7 +3,7 @@
  
  ```json
  {
-    "dependendices": {
-    
+    "dependencies": {
+    "com.itesca.itesca-unity-utils" : "https://github.com/jesusafu123/itesca-unity-utils.git"
  }
  ```
